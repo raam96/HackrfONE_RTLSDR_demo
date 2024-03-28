@@ -1,4 +1,4 @@
-# Simulation-Based Code Series Repository
+# Modulation demo codes in GNU radio by using HackRF-ONE as TX and RTL-SDR as RX
 
 Welcome to the simulation-based code series repository! This repository contains Python and GNU Radio Companion (GRC) files for simulating various modulation techniques, including AM, ASK, FSK, QPSK, OQPSK, NBFM, WBFM, SSB LSB, and SSB USB. The transmission is simulated using HackRF, and reception is simulated using RTLSDR.
 
@@ -31,7 +31,7 @@ Welcome to the simulation-based code series repository! This repository contains
 
 ## Screenshot
 
-![Main.py Window Screenshot](demo.png)
+![Main Window Screenshot](demo.png)
 
 ## License
 
