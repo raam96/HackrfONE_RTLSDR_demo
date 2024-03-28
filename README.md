@@ -31,7 +31,7 @@ Welcome to the simulation-based code series repository! This repository contains
 
 ## Screenshot
 
-![Main Window Screenshot](demo.png)
+![Main Window Screenshot](demo.PNG)
 
 ## License
 
