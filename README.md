@@ -29,7 +29,19 @@ Welcome to the simulation-based code series repository! This repository contains
 5. Select the desired modulation technique from the menu.
 6. Follow the instructions to run the simulation.
 
-## Screenshot
+## Here are some sScreenshots
+
+### Main.py
+
+![Main Window Screenshot](demo.PNG)
+
+### ASK TX and RX
+
+![ASK RX](askrx.PNG)
+
+![ASK TX](asktx.PNG)
+
+### Main.py
 
 ![Main Window Screenshot](demo.PNG)
 
