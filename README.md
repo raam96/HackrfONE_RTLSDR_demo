@@ -41,9 +41,41 @@ Welcome to the simulation-based code series repository! This repository contains
 
 ![ASK TX](asktx.PNG)
 
-### Main.py
+### FSK TX and RX
 
-![Main Window Screenshot](demo.PNG)
+![FSK RX](fskrx.PNG)
+
+![FSK TX](fsktx.PNG)
+
+### NBFM TX and RX
+
+![NBFM RX](nbfmrx.PNG)
+
+![NBFM TX](nbfmtx.PNG)
+
+### WBFM TX and RX
+
+![WBFM RX](wbfmrx.PNG)
+
+![WBFM TX](wbfmtx.PNG)
+
+### QPSK TX and RX
+
+![QPSK RX](qpskmrx.PNG)
+
+![QPSK TX](qpsktx.PNG)
+
+### SSB LSB TX and RX
+
+![SSB LSB RX](ssblsbrx.PNG)
+
+![SSB LSB TX](ssblsbtx.PNG)
+
+### SSB USB TX and RX
+
+![SSB USB RX](ssbusbrx.PNG)
+
+![SSB USB TX](ssbusbtx.PNG)
 
 ## License
 
